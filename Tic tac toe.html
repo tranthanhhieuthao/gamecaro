@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hello</title>
+</head>
+<body>
+<b>CARO GAME</b>
+<p id="caro"></p>
+<input type="button" value="Người chơi1" onclick="ham()"/>
+<input type="button" value="Người chơi 2" onclick="ham1()"/>
+<br/>
+<script>
+    let banco=[];
+    let data="";
+    let b=document.getElementById("caro");
+    for (let i=0;i<15;i++){
+        banco[i]=[".",".",".",".",".",".",".",".",".",".",".",".",".",".","."];
+        data +="<br/>";
+        for (let j=0;j<15;j++){
+         data +=banco[i][j]+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp";
+        }
+b.innerHTML=data;
+    }
+    function ham() {
+        let nhaptoado1X=prompt("Người chơi thứ 1X");
+        let nhaptoado1Y=prompt("Người chơi thứ 1Y");
+        banco[nhaptoado1X][nhaptoado1Y]="X";
+        data="";
+        for (let i=0;i<15;i++){
+            data +="<br/>";
+            for (let j=0;j<15;j++){
+        data +=banco[i][j]+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp";
+            }
+        }
+        b.innerHTML=data;
+        kiemTraNguoiThang();
+    }
+    function ham1() {
+        let nhaptoado2X=prompt("Người chơi thứ 2X");
+        let nhaptoado2Y=prompt("Người chơi thứ 2Y");
+        banco[nhaptoado2X][nhaptoado2Y]="0";
+        data="";
+        for (let i=0;i<15;i++){
+            data +="<br/>";
+            for (let j=0;j<15;j++){
+                data +=banco[i][j]+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp";
+            }
+        }
+        b.innerHTML=data;
+        kiemTraNguoiThang();
+    }
+
+    function kiemTraNguoiThang() {
+        for (let i=0;i<banco.length;i++){
+            for (let j=0;j<15;j++) {
+                if ( banco[i][j] == "X" && banco[i][j + 1] == "X" && banco[i][j + 2] == "X") {
+                    alert("Người chơi 1 đã thắng");
+                }
+                 if (banco[i][j] == "X" && banco[i+1][j] == "X" && banco[i+2][j] == "X"){
+                    alert("Người chơi 1 đã thắng");
+                }
+                if (banco[i][j] == "X" && banco[i+1][j+1] == "X" && banco[i+2][j+2] == "X"){
+                    alert("Người chơi 1 đã thắng");
+                }
+                if (banco[i][j] == "X" && banco[i-1][j+1] == "X" && banco[i-2][j+2] == "X"){
+                    alert("Người chơi 1 đã thắng");
+                }
+                if (banco[i][j] == "X" && banco[i+1][j-1] == "X" && banco[i+2][j-2] == "X"){
+                    alert("Người chơi 1 đã thắng");
+                }
+                if ( banco[i][j] == "0" && banco[i][j + 1] == "0" && banco[i][j + 2] == "0") {
+                    alert("Người chơi 2 đã thắng");
+                }
+                if (banco[i][j] == "0" && banco[i+1][j] == "0" && banco[i+2][j] == "0"){
+                    alert("Người chơi 2 đã thắng");
+                }
+                if (banco[i][j] == "0" && banco[i+1][j+1] == "0" && banco[i+2][j+2] == "0"){
+                    alert("Người chơi 2 đã thắng");
+                }
+                if (banco[i][j] == "0" && banco[i-1][j+1] == "0" && banco[i-2][j+2] == "0"){
+                    alert("Người chơi 2 đã thắng");
+                }
+                if (banco[i][j] == "0" && banco[i+1][j-1] == "0" && banco[i+2][j-2] == "0"){
+                    alert("Người chơi 2 đã thắng");
+                }
+            }
+        }
+    }
+</script>
+</body>
+</html>
