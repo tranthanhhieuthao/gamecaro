@@ -14,32 +14,16 @@
     let banco=[];
     let data="";
     let b=document.getElementById("caro");
+    confirm("Bạn Muốn chơi Caro Game không ^^!!");
     for (let i=0;i<15;i++){
         banco[i]=[".",".",".",".",".",".",".",".",".",".",".",".",".",".","."];
         data +="<br/>";
         for (let j=0;j<15;j++){
-         data +=banco[i][j]+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp";
-        }
-b.innerHTML=data;
-    }
-    function ham() {
-        let nhaptoado1X=prompt("Người chơi thứ 1X");
-        let nhaptoado1Y=prompt("Người chơi thứ 1Y");
-        banco[nhaptoado1X][nhaptoado1Y]="X";
-        data="";
-        for (let i=0;i<15;i++){
-            data +="<br/>";
-            for (let j=0;j<15;j++){
-        data +=banco[i][j]+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp";
-            }
+            data +=banco[i][j]+"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp";
         }
         b.innerHTML=data;
-        kiemTraNguoiThang();
     }
-    function ham1() {
-        let nhaptoado2X=prompt("Người chơi thứ 2X");
-        let nhaptoado2Y=prompt("Người chơi thứ 2Y");
-        banco[nhaptoado2X][nhaptoado2Y]="0";
+    function hamtaobanco() {
         data="";
         for (let i=0;i<15;i++){
             data +="<br/>";
@@ -48,16 +32,29 @@ b.innerHTML=data;
             }
         }
         b.innerHTML=data;
+
+    }
+    function ham() {
+        let nhaptoado1X=prompt("Người chơi thứ 1X");
+        let nhaptoado1Y=prompt("Người chơi thứ 1Y");
+        banco[nhaptoado1X][nhaptoado1Y]="X";
+        hamtaobanco()
         kiemTraNguoiThang();
     }
-
+    function ham1() {
+        let nhaptoado2X=prompt("Người chơi thứ 2X");
+        let nhaptoado2Y=prompt("Người chơi thứ 2Y");
+        banco[nhaptoado2X][nhaptoado2Y]="0";
+        hamtaobanco()
+        kiemTraNguoiThang();
+    }
     function kiemTraNguoiThang() {
         for (let i=0;i<banco.length;i++){
             for (let j=0;j<15;j++) {
                 if ( banco[i][j] == "X" && banco[i][j + 1] == "X" && banco[i][j + 2] == "X") {
                     alert("Người chơi 1 đã thắng");
                 }
-                 if (banco[i][j] == "X" && banco[i+1][j] == "X" && banco[i+2][j] == "X"){
+                if (banco[i][j] == "X" && banco[i+1][j] == "X" && banco[i+2][j] == "X"){
                     alert("Người chơi 1 đã thắng");
                 }
                 if (banco[i][j] == "X" && banco[i+1][j+1] == "X" && banco[i+2][j+2] == "X"){
@@ -84,6 +81,7 @@ b.innerHTML=data;
                 if (banco[i][j] == "0" && banco[i+1][j-1] == "0" && banco[i+2][j-2] == "0"){
                     alert("Người chơi 2 đã thắng");
                 }
+
             }
         }
     }

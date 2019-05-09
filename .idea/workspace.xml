@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0599f0a6-695c-47b9-9e4d-fd29cfdd6c81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Chuyển đổi giữa feet và meter/Chuyển đổi giữa feet và meter.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Hàm kiểm tra số nguyên tố/Hàm kiểm tra số nguyên tố.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kiểm tra từ đối xứng/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kiểm tra từ đối xứng/Kiểm tra từ đối xứng.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Luyentapvonglap02/Bai2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Luyentapvonglap02/Bai3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Luyentapvonglap02/Bai4.html" afterDir="false" />
@@ -37,6 +41,11 @@
       <change afterPath="$PROJECT_DIR$/../Sử dụng các hàm có sẵn của mảng/Bai3.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Tic tac toe.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Timgiatrilonnhattrongmang/giatrilonnhatmang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tìm giá trị nhỏ nhất của mảng/.idea/Tìm giá trị nhỏ nhất của mảng.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tìm giá trị nhỏ nhất của mảng/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tìm giá trị nhỏ nhất của mảng/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tìm giá trị nhỏ nhất của mảng/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tìm giá trị nhỏ nhất của mảng/Tìm min của mảng.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tìm giá trị trong mảng/.idea/Tìm giá trị trong mảng.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tìm giá trị trong mảng/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tìm giá trị trong mảng/.idea/modules.xml" afterDir="false" />
@@ -45,6 +54,43 @@
       <change afterPath="$PROJECT_DIR$/../Tìm giá trị trong mảng/Tìm giá trị trong mảng.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tạo và Thao tác với mảng/.idea/Tạo và Thao tác với mảng.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Tạo và Thao tác với mảng/Tạo và thao tác với mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/.idea/Tạo và gọi hàm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Tạo và gọi hàm/Tạo và gọi hàm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/.idea/[Bài tập] Luyện tập tạo và sử dụng hàm 01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 01/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/.idea/[Bài tập] Luyện tập tạo và sử dụng hàm 02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Bài tập] Luyện tập tạo và sử dụng hàm 02/Bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../[Thực hành] Chuyển đổi nhiệt độ/Chuyển đổi nhiệt độ.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demotiktactoe/.idea/demotiktactoe.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demotiktactoe/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demotiktactoe/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demotiktactoe/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demotiktactoe/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demotiktactoe/demogamecaro.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../git/my-new-project/my-new.project/my-new.project" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tao ban co don gian/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../tao ban co don gian/.idea/modules.xml" afterDir="false" />
@@ -62,11 +108,20 @@
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Đảo ngược các phần tử trong mảng/Đảo ngược các phần tử trong mảng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng quản lý sản phẩm sử dụng hàm/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng quản lý sản phẩm sử dụng hàm/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng quản lý sản phẩm sử dụng hàm/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng quản lý sản phẩm sử dụng hàm/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng quản lý sản phẩm sử dụng hàm/.idea/Ứng dụng quản lý sản phẩm sử dụng hàm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ứng dụng quản lý sản phẩm sử dụng hàm/Ứng dụng quản lý sản phẩm sử dụng hàm.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/.idea/Ứng dụng vui Faking Textarea on Typing.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Ứng dụng vui Faking Textarea on Typing/Ứng dụng vui Faking Textarea on Typing.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tic tac toe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tic tac toe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitapcodegym" beforeDir="false" afterPath="$PROJECT_DIR$/../baitapcodegym" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../baitaptientengay3" beforeDir="false" afterPath="$PROJECT_DIR$/../baitaptientengay3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.html" afterDir="false" />
@@ -86,8 +141,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Tic tac toe.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+            <state relative-caret-position="215">
+              <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -102,7 +157,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -118,14 +173,15 @@
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
         <option value="$PROJECT_DIR$/.idea/misc.xml" />
         <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/../demotiktactoe/.idea/demotiktactoe.iml" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="239" />
-    <option name="y" value="3" />
-    <option name="width" value="1574" />
-    <option name="height" value="1029" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="16" />
+    <option name="y" value="20" />
+    <option name="width" value="1408" />
+    <option name="height" value="992" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -133,7 +189,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -145,6 +200,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -177,18 +233,23 @@
       <option name="presentableId" value="Default" />
       <updated>1557134666477</updated>
       <workItem from="1557134667580" duration="4320000" />
-      <workItem from="1557147650101" duration="2604000" />
+      <workItem from="1557147650101" duration="4513000" />
+      <workItem from="1557223575034" duration="62000" />
+      <workItem from="1557309064997" duration="599000" />
+      <workItem from="1557315078001" duration="243000" />
+      <workItem from="1557389493911" duration="1784000" />
+      <workItem from="1557413708013" duration="627000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6924000" />
+    <option name="totallyTimeSpent" value="12148000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="239" y="3" width="1574" height="1029" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24950884" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2014807" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -200,7 +261,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3220339" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -213,8 +274,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Tic tac toe.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="215">
+          <caret line="20" column="58" selection-start-line="20" selection-start-column="58" selection-end-line="20" selection-end-column="58" />
         </state>
       </provider>
     </entry>
